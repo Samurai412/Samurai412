@@ -1,4 +1,4 @@
-### Hi there, you may call me Samurai or Remi. I study Artificial Intelligence and Data Science at the University of Petra. I look to expand my prowess and skills here, so will you be a part of my journey? 👋
+### Hi there, you may call me Samurai. I study Artificial Intelligence and Data Science in college. I look to expand my prowess and skills here, so will you be a part of my journey? 👋
 
 <!--
 **Samurai412/Samurai412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
